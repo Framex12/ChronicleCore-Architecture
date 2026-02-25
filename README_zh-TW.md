@@ -33,7 +33,7 @@
 
 ## 概念拓撲藍圖
 
-*   請查看 [TOPOLOGY.md](TOPOLOGY.md) 了解系統的 Mermaid 數學路由圖。
+*   請查看 [architecture/TOPOLOGY.md](architecture/TOPOLOGY.md) 了解系統的 Mermaid 數學路由圖。
 
 ## 記憶與人格查核
 

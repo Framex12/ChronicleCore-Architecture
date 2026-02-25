@@ -33,7 +33,7 @@ To prevent cognitive overload and persona drift during multi-agent orchestration
 
 ## Architecture Blueprint
 
-*   Please view [TOPOLOGY.md](TOPOLOGY.md) for the live Mermaid mathematical graph of the system routing.
+*   Please view [architecture/TOPOLOGY.md](architecture/TOPOLOGY.md) for the live Mermaid mathematical graph of the system routing.
 
 ## Memory & Personality Checks
 
